@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-excel-primary: #16a34a;
+  --color-excel-hover: #15803d;
+  --color-excel-light: #dcfce7;
+  --color-excel-lighter: #f0fdf4;
+  --color-excel-dark: #1f2937;
+  --color-excel-text: #374151;
+  --color-excel-gray: #6b7280;
+  --color-excel-muted: #9ca3af;
+  --color-excel-border: #d1d5db;
+  --color-excel-bg: #f9fafb;
+  --color-excel-section: #f0fdf4;
+  --color-excel-declaration: #ecfdf5;
+}
