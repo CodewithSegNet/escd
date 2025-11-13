@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { FileText, Upload, X, Plus, Trash2, Eye } from 'lucide-react';
-import vector from "./assets/vector.png"
+import vector from "./assets/Vector.png"
 import signature from "./assets/signatures.png"
 import { supabase } from './supabaseClient';
 
